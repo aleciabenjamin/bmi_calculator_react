@@ -4,7 +4,7 @@ import { stub } from 'sinon';
 
 import DisplayResult from '../Components/DisplayResult';
 import MethodSelect from '../Components/MethodSelect';
-import App from './App';
+import App from '../App';
 
 describe('<App />', () => {
   it('renders header', () => {
