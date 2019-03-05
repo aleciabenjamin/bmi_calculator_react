@@ -6,6 +6,7 @@ import DisplayResult from '../Components/DisplayResult';
 import MethodSelect from '../Components/MethodSelect';
 import App from '../App';
 
+
 describe('<App />', () => {
   it('renders header', () => {
     const component = shallow(<App />);
